@@ -1,0 +1,9 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/iphone_14_1"
+  android:layout_width="430dp"
+  android:layout_height="932dp"
+  android:clipToOutline="true"
+  android:background="#FFFFFF"
+ />
